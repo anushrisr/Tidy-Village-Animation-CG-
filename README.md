@@ -20,19 +20,3 @@ open the 'C' drive, then open the 'Program Files(x86)' folder, then open the 'Co
 8. Now click on the 'Settings' button from the top. Then click on the 'Compiler and debugger' option. Then click on 'Toolchain executables' and press the 'Auto detect' button. If it doesn't work, then paste 'C:\Program Files (x86)\CodeBlocks\MinGW' there. and press the 'ok' button below.
 9. All setup is done. Now, double-click on the 'Source' file and click on the 'main.cpp' file. Now remove the default code and paste the specific lab code.
 
-
-## If you like my repository 
-Don't forget to (Follow) and press the (Star) button. If you want to save this repository in your profile, then click on the (Fork) button from the top right side.
-
-## visit other repository with below link:
-https://github.com/shohan-cse?tab=repositories
-
-
-## Contact:
-info.shohan@yahoo.com
-
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
-=======
-# Tidy-Village-Animation-CG-
->>>>>>> 333767526496fac6cd63bd382b2d5e1c6c86b048
