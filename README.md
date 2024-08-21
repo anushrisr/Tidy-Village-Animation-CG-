@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Tidy Village using OpenGL
 Greetings! This repository contains an OpenGL project that based on a tidy village. On one side of which there will be a railway line and a river. The entire project is written in C++.
 
@@ -32,3 +33,6 @@ info.shohan@yahoo.com
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shohancse)
+=======
+# Tidy-Village-Animation-CG-
+>>>>>>> 333767526496fac6cd63bd382b2d5e1c6c86b048
